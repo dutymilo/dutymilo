@@ -1,5 +1,4 @@
-- Scarlett
-- she/her
+- Sidney
 - Python, C++, HTML, CSS
 
 <!---
