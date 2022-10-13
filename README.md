@@ -1,4 +1,4 @@
-- Sidney
+- Sid Duty
 - Python, C++, HTML, CSS
 
 <!---
