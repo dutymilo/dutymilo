@@ -1,4 +1,4 @@
-- Sid Duty
+- Milo Duty
 - Python, C++, HTML, CSS
 
 <!---
