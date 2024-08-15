@@ -1,4 +1,4 @@
-- Milo Duty
+- Scarlett Duty
 - Python, C++, HTML, CSS
 
 <!---
